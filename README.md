@@ -15,7 +15,7 @@
 
 ### Objetivo: 
 
-O objetivo deste projeto é criar uma segmentação de clientes baseada no comportamento de compras de uma rede de food Delivery e gerar oportunidades para o setor de marketing aplicar as devidas campanhas e publicidades para cadas grupo.
+O objetivo deste projeto é criar uma segmentação de clientes baseada no comportamento de compras de uma rede de food Delivery e gerar oportunidades para o setor de marketing aplicar as devidas campanhas e publicidades para cada grupo.
 
 A segmentação de clientes é o processo de dividir os clientes em grupos com base em características comuns, para que as empresas possam comercializar para cada grupo de forma eficaz e adequada, ou simplesmente compreender o padrão de consumo dos clientes.
 Marketing Analytics reúne dados de todos os canais de marketing e os consolida em uma visão de marketing comum. A partir dessa visão comum, você pode extrair resultados analíticos que podem fornecer assistência inestimável para impulsionar os esforços de marketing.
